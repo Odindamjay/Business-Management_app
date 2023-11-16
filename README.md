@@ -87,7 +87,7 @@ server.port=2330[Optional] <br>
 
 #### Products 
 
-![products (2)] (https://user-images.githubusercontent.com/126138738/272456901-0496f63a-f30c-4108-91a7-966bd37b2b54.png)
+![products (2)](https://user-images.githubusercontent.com/126138738/272456901-0496f63a-f30c-4108-91a7-966bd37b2b54.png)
 
 
 #### Location 
@@ -98,14 +98,14 @@ server.port=2330[Optional] <br>
 
 #### Login Page
 
-![logins] (https://user-images.githubusercontent.com/126138738/272457196-9c1efb48-5b23-4a43-8c96-81d55a7b1180.png)
+![logins](https://user-images.githubusercontent.com/126138738/272457196-9c1efb48-5b23-4a43-8c96-81d55a7b1180.png)
 
 
 
 
 #### AdminPanel
 
-![adminpanel] (https://user-images.githubusercontent.com/126138738/272457385-b89aa5ee-3f7f-4145-b063-048729e7fbe9.png)
+![adminpanel](https://user-images.githubusercontent.com/126138738/272457385-b89aa5ee-3f7f-4145-b063-048729e7fbe9.png)
 
 
 #### UserPanel 
