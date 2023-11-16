@@ -75,7 +75,7 @@ server.port=2330[Optional] <br>
 
 ## WorkFlow :
 
-![workflow](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/aea72470-49c8-41a4-8974-48737638ae19)
+![workflow]
 
 
 
@@ -86,32 +86,32 @@ server.port=2330[Optional] <br>
 
 #### Products 
 
-![products (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/0496f63a-f30c-4108-91a7-966bd37b2b54)
+![products (2)]
 
 
 #### Location 
 
-![locateus](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/30e40d74-d2f0-48cb-91b3-ea515f12c498)
+![locateus]
 
 
 
 #### Login Page
 
-![logins](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/9c1efb48-5b23-4a43-8c96-81d55a7b1180)
+![logins]
 
 
 
 
 #### AdminPanel
 
-![adminpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/b89aa5ee-3f7f-4145-b063-048729e7fbe9)
+![adminpanel]
 
 
 #### UserPanel 
 
-![userpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e0f81692-c049-4a2f-a78d-30d3906f4429)
+![userpanel]
 
 
 ### Exception page
 
-![exceptionPage](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/4349a429-61ff-4ecd-a463-2900874e1ea5)
+![exceptionPage]
