@@ -42,7 +42,7 @@
      
 3. Make sure you are in the Business_Management_Project directory. <br>
 
-![packageExplorer](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/3ea1eb7f-8e49-4b76-96e4-798b6b8e8715)
+![packageExplorer]
 
 
 4.Configure the database connection is application.properties (check the Database section for more information). <br>
