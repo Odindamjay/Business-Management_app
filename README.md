@@ -33,7 +33,8 @@
 
 
 
-## Installation :
+## Installation : 
+(https://user-images.githubusercontent.com/126138738/272456703-3ea1eb7f-8e49-4b76-96e4-798b6b8e8715.png)
 
 1. Clone the repository : $ git clone  <br>
 
@@ -86,32 +87,32 @@ server.port=2330[Optional] <br>
 
 #### Products 
 
-![products (2)]
+![products (2)] (https://user-images.githubusercontent.com/126138738/272456901-0496f63a-f30c-4108-91a7-966bd37b2b54.png)
 
 
 #### Location 
 
-![locateus]
+![locateus] ()
 
 
 
 #### Login Page
 
-![logins]
+![logins] (https://user-images.githubusercontent.com/126138738/272457196-9c1efb48-5b23-4a43-8c96-81d55a7b1180.png)
 
 
 
 
 #### AdminPanel
 
-![adminpanel]
+![adminpanel] (https://user-images.githubusercontent.com/126138738/272457385-b89aa5ee-3f7f-4145-b063-048729e7fbe9.png)
 
 
 #### UserPanel 
 
-![userpanel]
+![userpanel](https://user-images.githubusercontent.com/126138738/272457417-e0f81692-c049-4a2f-a78d-30d3906f4429.png)
 
 
 ### Exception page
 
-![exceptionPage]
+![exceptionPage](https://user-images.githubusercontent.com/126138738/272457447-4349a429-61ff-4ecd-a463-2900874e1ea5.png)
